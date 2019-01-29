@@ -84,6 +84,8 @@ octave wider_eval.m
 
 [SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)<br>
 [SSD_tensorflow_VOC](https://github.com/LevinJ/SSD_tensorflow_VOC)
+[论文中文翻译](https://blog.csdn.net/Xingyb14/article/details/81253129)
+[论文讲解](http://keep.01ue.com/?pi=296526&_a=app&_c=index&_m=p)
 
 ## Contact
 If you find any problems, welcome to open a new issue or contact zhaogw93@126.com .
